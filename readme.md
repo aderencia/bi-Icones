@@ -1,4 +1,4 @@
-# Repositório de Ícones – Aderência Tecnologia da Informação
+# Repositório de Ícones
 
 Este repositório disponibiliza **ícones públicos padronizados** para uso em **dashboards, indicadores e painéis de BI**, com foco em aplicações no **Qlik Sense**.
 
@@ -11,4 +11,8 @@ Centralizar e padronizar ícones utilizados em soluções de Business Intelligen
 ```
 bi-icones/
 └── <nome-do-projeto>/
+    └── <nome-do-painel>/
+        ├── <nome-do-indicador-1>.<formato-da-imagem>
+        ├── <nome-do-indicador-2>.<formato-da-imagem>
+        └── ...
 ```
