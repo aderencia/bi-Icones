@@ -9,7 +9,7 @@ Centralizar e padronizar ícones utilizados em soluções de Business Intelligen
 ## Estrutura
 
 ```
-bi-icones/
+icones/
 └── <nome-do-projeto>/
     └── <nome-do-painel>/
         ├── <nome-do-indicador-1>.<formato-da-imagem>
