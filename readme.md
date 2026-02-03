@@ -12,7 +12,8 @@ Centralizar e padronizar ícones utilizados em soluções de Business Intelligen
 icones/
 └── <nome-do-projeto>/
     └── <nome-do-painel>/
-        ├── <nome-do-icone-1>.<formato-da-imagem>
-        ├── <nome-do-icone-2>.<formato-da-imagem>
-        └── ...
+        └── <nome-da-aba>/
+            ├── <nome-do-icone-1>.<formato-da-imagem>
+            ├── <nome-do-icone-2>.<formato-da-imagem>
+            └── ...
 ```
